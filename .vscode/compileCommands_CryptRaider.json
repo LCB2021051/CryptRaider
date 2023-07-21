@@ -1,0 +1,90 @@
+[
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\CryptRaider.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\CryptRaider.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\FinalDisplay.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\FinalDisplay.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\Graber.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\Graber.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\Mover.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\Mover.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\vivek\\Desktop\\Unreal_Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
